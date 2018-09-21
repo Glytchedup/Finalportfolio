@@ -31,7 +31,6 @@
     "deploy": "npm run build && gh-pages -d build",
     "postinstall": "react-scripts build"
     },
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Glytchedup/Personalportfolio.git"
